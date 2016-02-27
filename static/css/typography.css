@@ -1,0 +1,31 @@
+h1 {
+	font-size:48px;
+	margin: auto;
+}
+
+
+p {
+	color: gray;
+	font-size:17px;
+	line-height:1.5;
+}
+
+strong {
+	color: #333;
+	font-weight: 500;
+}
+
+a {
+	color: gray;
+	font-size:17px;
+	line-height:1.5;
+	text-decoration: none;
+}
+
+small {
+	color: gray;
+}
+
+a:hover {
+	text-decoration: none;
+}
